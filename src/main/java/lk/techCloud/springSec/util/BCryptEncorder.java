@@ -1,4 +1,4 @@
-package lk.techCloud.springSec.ult;
+package lk.techCloud.springSec.util;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
